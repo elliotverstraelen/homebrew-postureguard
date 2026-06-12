@@ -1,8 +1,8 @@
 class Postureguard < Formula
   desc "Real-time macOS posture monitor that lives in the menu bar"
   homepage "https://github.com/elliotverstraelen/posture-guard"
-  url "https://github.com/elliotverstraelen/posture-guard/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "84502e13732cd289da1eaeab8dfe22e7fc26ee97afeef062ccd300014820a4d5" # postureguard
+  url "https://github.com/elliotverstraelen/posture-guard/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "5b5a2ae9d7f40b3beb834bbc053fed345e63112196d2dce6b466393e365f5252" # postureguard
   license "MIT"
 
   # macOS only — uses osascript, rumps (AppKit), AVFoundation camera
